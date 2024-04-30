@@ -1,0 +1,2 @@
+# array
+ understanding about  array
